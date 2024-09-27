@@ -14,3 +14,7 @@ alert ('Seja bem vindo ' + nome + '!')
 
 
 console.log ('imprime apenas no console no navegador')
+
+
+
+
