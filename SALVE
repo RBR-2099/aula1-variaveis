@@ -1,0 +1,7 @@
+let nome = prompt ('Qual o seu nome?')
+let idade = prompt ('Qual a sua idade?')
+//typeof nome
+//typeof idade
+// Ambos tipos serão exibidos como "string"
+let nome = prompt ('Qual o seu nome?')
+let idade = prompt ('Qual a sua idade?')
